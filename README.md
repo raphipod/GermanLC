@@ -4,7 +4,7 @@
 
 German memes & (meme) songs to feel better in the unknown.
 
-Eventually to be uploaded to Thunderstorm.
+Eventually to be uploaded to Thunderstore.
 
 Tools used:
 
