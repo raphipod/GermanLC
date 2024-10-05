@@ -1,4 +1,4 @@
-### GermanLC
+### RALC
 
 (C) 2024, Raphipod
 
@@ -10,3 +10,5 @@ Tools used:
 
 - AssetRipper
 - r2modman
+- FFmpeg
+- Audacity
