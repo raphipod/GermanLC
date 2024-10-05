@@ -2,11 +2,10 @@
 
 (C) 2024, Raphipod
 
-German memes & (meme) songs to feel better in the unknown.
+Deutsche Memes & Memesongs-Modpack für Lethal Company.
+Keine Haftung. Privates Modpack.
 
-Eventually to be uploaded to Thunderstore.
-
-Tools used:
+Benutzte Tools:
 
 - AssetRipper
 - r2modman
