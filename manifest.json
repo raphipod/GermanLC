@@ -1,8 +1,8 @@
 {
     "name": "RALC",
     "version_number": "0.1.0",
-    "website_url": "",
-    "description": "German memes & (meme) songs to feel better in the unknown.",
+    "website_url": "https://github.com/raphipod/RALC",
+    "description": "Deutsche Memes & Memesongs-Modpack für Lethal Company. Keine Haftung. Privates Modpack.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "no00ob-LCSoundTool-1.5.1",
